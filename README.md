@@ -1,6 +1,6 @@
 # Hola, mi nombre es Sonia Ujaque Ortiz 👋
 
-![https://github.com/Puni2007](Encabezado GitHub.jpg)
+![https://github.com/Puni2007](https://github.com/Puni2007/Puni2007/blob/aba334c110edf95eae8c7f45ec174b7badec84c2/Encabezado%20GitHub.jpg)
 <!--
 **Puni2007/Puni2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
