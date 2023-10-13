@@ -8,6 +8,7 @@ Finalmente, cuando se presentó la oportunidad, decidí retomar lo que había de
 
 ## Tecnologías:
 
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
 
 
 
