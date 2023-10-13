@@ -26,6 +26,10 @@ Finalmente, cuando se presentó la oportunidad, decidí retomar lo que había de
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
 </br>
 Entre otras...
+</br>
+## Encuéntrame en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonia_Ujaque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sonia-ujaque-ortiz-340275249/)
 
 
 
